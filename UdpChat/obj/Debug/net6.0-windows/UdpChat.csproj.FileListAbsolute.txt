@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\UdpChat\UdpChat\bin\Debug\net6.0-windows\UdpChat.exe
+C:\Users\Admin\source\repos\UdpChat\UdpChat\bin\Debug\net6.0-windows\UdpChat.deps.json
+C:\Users\Admin\source\repos\UdpChat\UdpChat\bin\Debug\net6.0-windows\UdpChat.runtimeconfig.json
+C:\Users\Admin\source\repos\UdpChat\UdpChat\bin\Debug\net6.0-windows\UdpChat.dll
+C:\Users\Admin\source\repos\UdpChat\UdpChat\bin\Debug\net6.0-windows\UdpChat.pdb
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.Form1.resources
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.dll
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\refint\UdpChat.dll
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.pdb
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\UdpChat.genruntimeconfig.cache
+C:\Users\Admin\source\repos\UdpChat\UdpChat\obj\Debug\net6.0-windows\ref\UdpChat.dll
